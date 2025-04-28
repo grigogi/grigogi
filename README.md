@@ -2,7 +2,16 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Hi! I'm Giovanna Grigolon, an engineering student currently in my 4th year at INSA Toulouse, specializing in Embedded Systems within the Automatic and Electronic Engineering program.
+
+I have strong experience in embedded systems, hardware-software integration, and software development. My projects include telemetry systems using microcontrollers and CAN protocol, real-time data acquisition, backend process automation, web development, and AI anomaly detection models for aeronautical simulations.
+
+I have worked at the Brazilian Synchrotron Light Laboratory (LNLS) developing Python backend automation and user interfaces with PyQt5, as well as web solutions with HTML and JavaScript. I also gained project and leadership experience as Administrative Director at Ecocar Unicamp, collaborating with major national and international companies.
+
+Passionate about technology, innovation, and problem-solving, I am looking for new opportunities to apply and expand my skills, particularly in automation, embedded systems, and software engineering.
+
+Languages: Portuguese (native), English (C2), French (C1), basic German and Mandarin.
+Technical skills: C++, Python, VHDL, Java, SQL, MATLAB, Linux; STM32, Arduino, Basys3 platforms.
 
 ### 🤖 Linguagens e Tecnologias
 
