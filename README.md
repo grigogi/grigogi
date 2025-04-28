@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Giovanna Grigolon
 
-**`Desenvolvedora FullStack`**
-
 Hi! I'm Giovanna Grigolon, an engineering student currently in my 4th year at INSA Toulouse, specializing in Embedded Systems within the Automatic and Electronic Engineering program.
 
 I have strong experience in embedded systems, hardware-software integration, and software development. My projects include telemetry systems using microcontrollers and CAN protocol, real-time data acquisition, backend process automation, web development, and AI anomaly detection models for aeronautical simulations.
